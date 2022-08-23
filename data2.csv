@@ -1,0 +1,57 @@
+answerId,sex,birth,q1,q2
+1,Male,2003,Apple,길을 걸을때
+2,Male,2002,Beoplay,대중교통을 이용할때
+3,Male,2001,Jabra,직장에서 일할떄
+4,Male,2000,Sony,운동할때
+5,Male,1999,Sennheiser,운전할때
+6,Male,1998,QCY,온라인강의/수업을 들을때
+7,Male,1997,Galaxy buds,혼자 휴식을 취할때
+8,Male,1996,Tone-free,음악/동영상을 이용할때
+9,Male,1995,Powerbeats,기타
+10,Male,1994,Britz,길을 걸을때
+11,Male,1994,Xiaomi Airdot,대중교통을 이용할때
+12,Male,1994,JBL,직장에서 일할떄
+13,Male,1994,MGTec,운동할때
+14,Male,1994,etc,운전할때
+15,Female,2003,Apple,온라인강의/수업을 들을때
+16,Female,2002,Beoplay,혼자 휴식을 취할때
+17,Female,2001,Jabra,음악/동영상을 이용할때
+18,Female,2000,Sony,기타
+19,Female,1999,Sennheiser,길을 걸을때
+20,Female,1998,QCY,대중교통을 이용할때
+21,Female,1997,Galaxy buds,직장에서 일할떄
+22,Female,1996,Tone-free,운동할때
+23,Female,1995,Powerbeats,운전할때
+24,Female,1994,Britz,온라인강의/수업을 들을때
+25,Female,1994,Xiaomi Airdot,혼자 휴식을 취할때
+26,Female,1994,JBL,음악/동영상을 이용할때
+27,Female,1994,MGTec,기타
+28,Female,1994,etc,길을 걸을때
+29,Male,1993,Apple,대중교통을 이용할때
+30,Male,1992,Beoplay,직장에서 일할떄
+31,Male,1991,Jabra,운동할때
+32,Male,1990,Sony,운전할때
+33,Male,1989,Sennheiser,온라인강의/수업을 들을때
+34,Male,1988,QCY,혼자 휴식을 취할때
+35,Male,1987,Galaxy buds,음악/동영상을 이용할때
+36,Male,1986,Tone-free,기타
+37,Male,1985,Powerbeats,길을 걸을때
+38,Male,1984,Britz,대중교통을 이용할때
+39,Male,1984,Xiaomi Airdot,직장에서 일할떄
+40,Male,1984,JBL,운동할때
+41,Male,1984,MGTec,운전할때
+42,Male,1984,etc,온라인강의/수업을 들을때
+43,Female,1993,Apple,혼자 휴식을 취할때
+44,Female,1992,Beoplay,음악/동영상을 이용할때
+45,Female,1991,Jabra,기타
+46,Female,1990,Sony,길을 걸을때
+47,Female,1989,Sennheiser,대중교통을 이용할때
+48,Female,1988,QCY,직장에서 일할떄
+49,Female,1987,Galaxy buds,운동할때
+50,Female,1986,Tone-free,운전할때
+51,Female,1985,Powerbeats,온라인강의/수업을 들을때
+52,Female,1984,Britz,혼자 휴식을 취할때
+53,Female,1984,Xiaomi Airdot,음악/동영상을 이용할때
+54,Female,1984,JBL,기타
+55,Female,1984,MGTec,길을 걸을때
+56,Female,1984,etc,대중교통을 이용할때
